@@ -28,7 +28,7 @@ function generateId(numberOfChars, currentIds, attempts = 0) {
             console.log("attempted 100 times!", id)
             return uuidv4()
         }
-        return generateId(numberOfChars, currentIds, attempts+1)
+        return generateId (numberOfChars, currentIds, attempts+1)
     } else {
         return id
     }
