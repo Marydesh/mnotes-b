@@ -17,6 +17,4 @@ Create a db.json file that stores and retrieves notes using the fs module.
 
 - Created a route to DELETE a requets.
 
-My tutor Doug assited me with the code for this challenge:
 
-Doug Alcedo - https://preply.com/en/tutor/3316660
